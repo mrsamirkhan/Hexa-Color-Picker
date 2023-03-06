@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #212F3C;
+    color: #eee;
+    text-align: center;
+}
+
+.hexacolor{
+    display: flex;
+    width: 60rem;
+    background-color: #909497;
+    margin: auto;
+    justify-content: space-around;
+    text-transform: uppercase;
+    border-radius: 10px;
+    padding-bottom: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.55);
+}
+
+.colorPicker{
+    background: none;
+    border: none;
+    margin: 0;
+
+}
+
+.colorPicker .oned{
+    margin-right: 0;
+}
